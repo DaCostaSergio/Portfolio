@@ -24,17 +24,6 @@ import Projects from './components/Projects.vue'
 
 
     <MainTitle mainTitle="about"></MainTitle>
-    <About date="2020 - 2022" text-about=
-        " ETML Pendant deux ans j'ai appris le momde de l'informatique sjkdgshflgashdfglab
-        idfhgfasd uiadfgafvblasfgla fiagsdfoawbfgd siasdzfgabfasggdfagdbkshgdfshkdbsbé sDHèabdvp
-        djkhaDHNas"
-    ></About>
-
-    <About date="2017 - 2020" text-about=
-        " Eracom Pendant deux ans j'ai appris le momde de l'informatique sjkdgshflgashdfglab
-        idfhgfasd uiadfgafvblasfgla fiagsdfoawbfgd siasdzfgabfasggdfagdbkshgdfshkdbsbé sDHèabdvp
-        djkhaDHNas"
-    ></About>
 
     <MainTitle mainTitle="contact"></MainTitle>
 
