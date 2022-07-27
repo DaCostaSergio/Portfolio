@@ -8,7 +8,10 @@
   },
   "dependencies": {
     "tailwindcss-filters": "^3.0.0",
-    "vue": "^3.2.33"
+    "vue": "^3.2.33",
+    "vue-core-video-player": "^0.2.0",
+    "vue-easeljs": "^0.1.14",
+    "vue-video": "^0.1.7"
   },
   "devDependencies": {
     "@vitejs/plugin-vue": "^2.3.1",
