@@ -11,15 +11,13 @@ module.exports = {
       'blur': 'blur(20px)'
     },
 
-    fontSize: {
-      '10xl': '10rem'
-    },
+
     extend: {
-    fontFamily: {
-      'Baunk' : ['Baunk','sans-serif']
+      fontFamily: {
+        Baunk : ['Baunk', 'sans-serif'],
+        N27: ['N27', 'sans-serif']
       },
-      'N27' : ['N27', 'sans-serif']
     },
-  },
-  plugins: [],
+    plugins: [],
+  }
 }
