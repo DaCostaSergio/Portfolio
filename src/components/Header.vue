@@ -19,7 +19,7 @@
               font-bold
               text-white
               md:text-4xl
-              hover:text-blue-400
+
             "
           >
             Sergio Da Costa
