@@ -8,7 +8,7 @@
       loop="loop"
       playsinline=""
       src="../assets/myVideoRound.mp4"
-      class="video-approche img-fluid d-none d-md-block mb-2.5 ">
+      class="video-approche img-fluid d-none d-md-block mb-52 ">
   </video>
 
   <video
@@ -17,7 +17,7 @@
          loop="loop"
          playsinline=""
          src="../assets/myVideop.mp4"
-         class="video-approche img-fluid d-none d-md-block ">
+         class="video-approche img-fluid d-none d-md-block mb-52 ">
   </video>
 
 
