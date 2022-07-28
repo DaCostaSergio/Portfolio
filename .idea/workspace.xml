@@ -3,12 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="2c455a0b-344c-4d43-b119-d256d9768b55" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/myVideoRound.mp4" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/myVideoRound.mp4" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/myVideop.mp4" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/myVideop.mp4" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/Header.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Header.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Main.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Main.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tailwind.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/tailwind.config.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,7 +71,8 @@
       <workItem from="1658782570317" duration="2806000" />
       <workItem from="1658926723673" duration="2725000" />
       <workItem from="1658933248716" duration="1534000" />
-      <workItem from="1658957674305" duration="2225000" />
+      <workItem from="1658957674305" duration="2619000" />
+      <workItem from="1659001595936" duration="355000" />
     </task>
     <servers />
   </component>
