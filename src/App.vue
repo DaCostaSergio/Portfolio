@@ -5,11 +5,5 @@ import Header from './components/Header.vue';
 
 <template>
   <Header></Header>
-  <main>
-    <Main></Main>
-  </main>
-  <main>
-
-  </main>
 </template>
 

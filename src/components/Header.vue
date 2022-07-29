@@ -1,3 +1,33 @@
+<script>
+import Main from '../components/Main.vue';
+import Projects from '../components/Projects.vue';
+import About from '../components/About.vue';
+
+const routes = {
+  '/': Main,
+  '/projects':Projects,
+  '/about': About
+}
+export default {
+  data() {
+    return {
+      showMenu: false,
+      currentPath: window.location.hash
+    }
+  },
+  computed: {
+    currentView() {
+      return routes[this.currentPath.slice(1) || '/'] || NotFound
+    }
+  },
+  mounted() {
+    window.addEventListener('hashchange', () => {
+      this.currentPath = window.location.hash
+    })
+  }
+}
+</script>
+
 <template>
   <div>
     <div class="bg-black">
@@ -22,7 +52,9 @@
 
             "
           >
-            Sergio Da Costa
+            <a href="/">
+              Sergio Da Costa
+            </a>
           </router-link>
 
           <!-- Mobile menu button -->
@@ -61,14 +93,24 @@
             md:mt-0
           "
         >
-          <li class="text-2xl text-white font-N27  hover:text-blue-400">
-            Home
+          <li class="text-2xl text-white font-N27  hover:text-blue-400" >
+            <a href="/">
+              Home
+            </a>
           </li>
           <li class="text-2xl text-white font-N27  hover:text-blue-400">
-            Projects
+            <router-link to="#/projects">
+              <a href="#/projects">
+                Projects
+              </a>
+            </router-link>
           </li>
           <li class="text-2xl text-white font-N27  hover:text-blue-400">
-            About
+            <router-link to="#/about">
+              <a href="#/about">
+                About
+              </a>
+            </router-link>
           </li>
           <li class="text-2xl text-white font-N27  hover:text-blue-400">
             Email
@@ -77,13 +119,5 @@
       </nav>
     </div>
   </div>
+  <component :is="currentView" />
 </template>
-<script>
-export default {
-  data() {
-    return {
-      showMenu: false,
-    };
-  },
-};
-</script>
