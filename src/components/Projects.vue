@@ -1,5 +1,5 @@
 <template>
-  <div class="text-white mr-8  font-N27 text-justify md:text-left ml-8 text-2xl">
+  <div class="text-black mr-8  font-N27 text-justify md:text-left ml-8 text-2xl">
     SIA (Société Suisse des Ingénieurs et des Architectes <br><br>
     Date : 2020 <br>
     Project : Affiche pour promouvoir la journée de la SIA. Visuel inspiré des plans de bâtiments.

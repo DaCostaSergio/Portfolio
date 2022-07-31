@@ -30,7 +30,7 @@ export default {
 
 <template>
   <div>
-    <div class="bg-black">
+    <div class="bg-white">
       <nav
           class="
           container
@@ -47,13 +47,13 @@ export default {
               text-xl
               font-N27
               font-bold
-              text-white
+              text-black
               md:text-4xl
 
             "
           >
             <a href="/">
-              Sergio Da Costa
+              <img class="w-32" src="../assets/Logo.svg" alt="">
             </a>
           </router-link>
 
@@ -62,7 +62,7 @@ export default {
             <button
                 type="button"
                 class="
-                text-white
+                text-black
                 hover:text-gray-400
                 focus:outline-none focus:text-white
               "
@@ -93,31 +93,34 @@ export default {
             md:mt-0
           "
         >
-          <li class="text-2xl text-white font-N27  hover:text-blue-400" >
+          <li class="text-2xl text-black font-N27  hover:underline" >
             <a href="/">
               Home
             </a>
           </li>
-          <li class="text-2xl text-white font-N27  hover:text-blue-400">
+          <li class="text-2xl text-black font-N27  hover:underline">
             <router-link to="#/projects">
               <a href="#/projects">
                 Projects
               </a>
             </router-link>
           </li>
-          <li class="text-2xl text-white font-N27  hover:text-blue-400">
+          <li class="text-2xl text-black font-N27  hover:underline">
             <router-link to="#/about">
               <a href="#/about">
                 About
               </a>
             </router-link>
           </li>
-          <li class="text-2xl text-white font-N27  hover:text-blue-400">
-            Email
+          <li class="text-2xl text-black font-N27  hover:underline">
+            Contact
           </li>
         </ul>
       </nav>
     </div>
+  </div>
+  <div class="border-y-black">
+
   </div>
   <component :is="currentView" />
 </template>
