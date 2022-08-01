@@ -30,7 +30,7 @@ export default {
 
 <template>
   <div>
-    <div class="bg-white">
+    <div class="bg-white divide-x-[3px]">
       <nav
           class="
           container
