@@ -6,7 +6,7 @@ import About from '../components/About.vue';
 const routes = {
   '/': Main,
   '/projects':Projects,
-  '/about': About
+  '/about': About,
 }
 export default {
   data() {
@@ -49,7 +49,6 @@ export default {
               font-bold
               text-black
               md:text-4xl
-
             "
           >
             <a href="/">
@@ -112,15 +111,11 @@ export default {
               </a>
             </router-link>
           </li>
-          <li class="text-2xl text-black font-N27  hover:underline">
-            Contact
-          </li>
         </ul>
       </nav>
     </div>
   </div>
   <div class="border-y-black">
-
   </div>
   <component :is="currentView" />
 </template>

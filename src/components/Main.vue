@@ -10,7 +10,7 @@
       loop="loop"
       playsinline=""
       src="../assets/myVideoRound.mp4"
-      class="video-approche img-fluid d-none d-md-block mb-52 "
+      class="fixed d-none d-md-block  "
       >
   </video>
 
