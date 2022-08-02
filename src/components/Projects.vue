@@ -23,10 +23,44 @@
         <img src="../assets/Nasa_Api_3.png" alt="AsapProject" class="w-full">
       </div>
       <br>
-      <div class="mb-56">
+      <div class="">
         <a href="https://github.com/DaCostaSergio/Nasa" class="hover:underline"> LINK Repository Github Nasa Client</a> <br>
         <a href="https://github.com/DaCostaSergio/NasaApi" class="hover:underline">LINK Repository Github Nasa API</a>
       </div>
+    </div>
+
+    <div class="font-N27 text-lg md:text-2xl mt-8">
+      <a href="" class="underline">Animation Processing, personnal work</a>  <br>
+      Date : 2022 <br>
+
+      <div class="flex flex-col space-y-8 mt-8 ">
+        <video
+            muted="muted"
+            autoplay="autoplay"
+            loop="loop"
+            playsinline=""
+            src="../assets/myVideoRound.mp4"
+            class="">
+        </video>
+      </div>
+      <br>
+    </div>
+
+    <div class="font-N27 text-lg md:text-2xl mt-8">
+      <a href="" class="underline">Animation Processing, personnal work</a>  <br>
+      Date : 2022 <br>
+
+      <div class="flex flex-col space-y-8 mt-8 ">
+        <video
+            muted="muted"
+            autoplay="autoplay"
+            loop="loop"
+            playsinline=""
+            src="../assets/myVideoLine.mp4"
+            class="">
+        </video>
+      </div>
+      <br>
     </div>
 
   </div>
