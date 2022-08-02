@@ -8,9 +8,10 @@ import Footer from './components/Footer.vue';
   <main>
     <Header/>
   </main>
-  <div> <hr> </div>
-  <footer class="fixed bottom-0 w-full  p-9">
-    <div class="font-N27 text-2xl text-center">
+
+  <footer class="fixed bottom-0 w-full bg-white ">
+    <div> <hr class="bg-black"> </div>
+    <div class="font-N27 text-2xl text-center mt-3 mb-3">
       <a href="mailto:contact@sergiodacosta.ch" target="_blank" class="hover:underline"> contact@sergiodacosta.ch </a>
     </div>
   </footer>

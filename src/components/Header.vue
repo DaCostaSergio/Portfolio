@@ -117,5 +117,8 @@ export default {
   </div>
   <div class="border-y-black">
   </div>
+  <div class=" "> <hr class=""> </div>
   <component :is="currentView" />
+
+
 </template>

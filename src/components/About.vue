@@ -1,24 +1,40 @@
 <template>
-  <div class="flex flex-row">
 
 
-    <div class="text-black font-N27 text-2xl m-20 text-center sm:text-left">
-      En 2017, j’ai effectué une formation de Graphiste à l’ Eracom ( Ecole Romande d’art et Communication)
-      pendant 3 ans. Ensuite, j’ai suivi une formation d’informaticien. Mon objectif, aujourd’hui est
-      de me spécialiser dans le développement web et ainsi joindre mes connaissances de graphisme et développement.
-    </div>
-    <video
-        muted="muted"
-        autoplay="autoplay"
-        loop="loop"
-        playsinline=""
-        src="../assets/myVideop.mp4"
-        class=" img-fluid d-none d-md-block mb-52 mt-2< justify-center ">
-    </video>
-
-
+  <div class=" font-N27 m-8 text-2xl md:ml-20 md:text-8xl">
+    EDUCATION
   </div>
-</template>
+  <div class=" flex ml-8  md:mt-0 md:ml-20">
+    <div class="font-N27">
+        2020 - 2022
+    </div>
+    <div class="font-N27  md:ml-32 mb-3">
+        ETML (Ecole Technique des Métier de Lausanne), Lausanne <br>
+      - Accelerated professional training <br>
+      - Web development<br>
+      - Application development -Network infrastructure<br>
+      - Customer support<br>
+      - System<br> <br>
+
+      <a class="hover:underline " href="https://www.etml.ch/formations/informaticien.html"> LINK ETML</a>
+
+    </div>
+  </div>
+
+  <div class="flex ml-8 mt-8 md:flex md:ml-20">
+    <div class="font-N27">
+      2017 - 2020
+    </div>
+    <div class="font-N27  md:ml-32">
+      ERACOM ( Ecole d’arts et communiocation ), Lausanne <br>
+      - Adobe Suite <br>
+      - Graphic designer <br>
+      - Communication <br> <br>
+
+      <a class="hover:underline mb-4" href="https://eracom.ch/"> LINK ERACOM</a>
+    </div>
+  </div>
+  </template>
 
 <script>
 export default {
