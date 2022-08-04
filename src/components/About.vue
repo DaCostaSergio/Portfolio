@@ -21,12 +21,12 @@
     </div>
   </div>
 
-  <div class="flex ml-8 mt-8 md:flex md:ml-20">
+  <div class="flex ml-8 mt-8 mb-16 md:flex md:ml-20">
     <div class="font-N27">
       2017 - 2020
     </div>
-    <div class="font-N27  md:ml-32">
-      ERACOM ( Ecole d’arts et communiocation ), Lausanne <br>
+    <div class="font-N27 md:ml-32">
+      ERACOM ( Ecole d’arts et communication ), Lausanne <br>
       - Adobe Suite <br>
       - Graphic designer <br>
       - Communication <br> <br>

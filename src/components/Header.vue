@@ -52,8 +52,8 @@ export default {
             "
           >
             <a href="/">
-             <!-- <img class="w-32" src="../assets/Logo.svg" alt="">-->
-              Sergio
+             <img class="w-32" src="../assets/Logo.svg" alt="">
+
             </a>
           </router-link>
 
