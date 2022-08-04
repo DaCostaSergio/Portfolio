@@ -35,7 +35,7 @@ export default {
           class="
           container
           px-6
-          py-8
+          py-2
           mx-auto
           md:flex md:justify-between md:items-center
         "

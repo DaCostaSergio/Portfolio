@@ -2,7 +2,7 @@
 </script>
 
 <template>
-<div class="flex flex-col items-center mt-24 md:mt-0">
+<div class="flex flex-col items-center  md:mt-0">
   <video
       muted="muted"
       autoplay="autoplay"
