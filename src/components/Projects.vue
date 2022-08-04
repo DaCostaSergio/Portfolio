@@ -4,7 +4,7 @@
 <template>
   <div class="m-2 md:m-20 mb-5">
     <div class="font-N27 text-lg md:text-2xl">
-      <a href="" class="underline">Asap Rocky Project, School Project ETML</a> <br>
+      <a class="underline">Asap Rocky Project, School Project ETML</a> <br>
       Date : 2020 <br>
     <a href="https://asaprockyproject.netlify.app">
       <img src="../assets/Asap_Project.png" alt="AsapProject" class="w-full mt-8">
@@ -12,7 +12,7 @@
     </div>
 
     <div class="font-N27 text-lg md:text-2xl mt-8">
-      <a href="" class="underline">Internship (1 week) WGR, Lausanne</a>  <br>
+      <a class="underline">Internship (1 week) WGR, Lausanne</a>  <br>
       Date : 2022 <br>
       The exercise was to get data from a Laravel API with VueJs. <br>
       Laravel will get the data from the Nasa API and VueJS <br>
@@ -30,7 +30,7 @@
     </div>
 
     <div class="font-N27 text-lg md:text-2xl mt-8">
-      <a href="" class="underline">Animation Processing, personnal work</a>  <br>
+      <a  class="underline">Animation Processing, personnal work</a>  <br>
       Date : 2022 <br>
 
       <div class="flex flex-col space-y-8 mt-8 ">
@@ -47,7 +47,7 @@
     </div>
 
     <div class="font-N27 text-lg md:text-2xl mt-8">
-      <a href="" class="underline">Animation Processing, personnal work</a>  <br>
+      <a class="underline">Animation Processing, personnal work</a>  <br>
       Date : 2022 <br>
 
       <div class="flex flex-col space-y-8 mt-8 ">
