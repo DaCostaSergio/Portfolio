@@ -52,7 +52,7 @@ export default {
             "
           >
             <a href="/">
-             <img class="w-32" src="../assets/Logo.svg" alt="">
+             <img class="w-32" src="../assets/logo.svg" alt="">
 
             </a>
           </router-link>
