@@ -3,6 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="2c455a0b-344c-4d43-b119-d256d9768b55" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Footer.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Footer.vue" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/Header.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Header.vue" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/Main.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Main.vue" afterDir="false" />
     </list>
@@ -83,7 +85,8 @@
       <workItem from="1659384454080" duration="2456000" />
       <workItem from="1659399383681" duration="4361000" />
       <workItem from="1659432686253" duration="14172000" />
-      <workItem from="1659606127036" duration="1630000" />
+      <workItem from="1659606127036" duration="2227000" />
+      <workItem from="1659684029213" duration="765000" />
     </task>
     <servers />
   </component>
