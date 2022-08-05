@@ -6,7 +6,7 @@
     <div class="font-N27 text-lg md:text-2xl">
       <a class="underline">Asap Rocky Project, School Project ETML</a> <br>
       Date : 2020 <br>
-    <a href="https://asaprockyproject.netlify.app">
+    <a href="https://asaprocky.sergiodacosta.ch/">
       <img src="../assets/Asap_Project.png" alt="AsapProject" class="w-full mt-8">
     </a>
     </div>
