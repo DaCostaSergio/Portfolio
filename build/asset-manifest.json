@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e2ae2354.css",
+    "main.js": "/static/js/main.93aa6063.js",
+    "static/js/787.ef0c4325.chunk.js": "/static/js/787.ef0c4325.chunk.js",
+    "static/media/affiche_spider.png": "/static/media/affiche_spider.6b6e8e7fbed6982cc413.png",
+    "static/media/Affiche_tombe.png": "/static/media/Affiche_tombe.062c2af60c647cdd592a.png",
+    "static/media/affiche_macbeth.png": "/static/media/affiche_macbeth.604354b20de8330aed2c.png",
+    "static/media/Macbeth_sang.png": "/static/media/Macbeth_sang.ab757575696e91ce4511.png",
+    "static/media/Hurricane_Sergio.png": "/static/media/Hurricane_Sergio.acf7b9a6aae3846a074a.png",
+    "static/media/Infographie2.png": "/static/media/Infographie2.a969bbddcb6240040b30.png",
+    "static/media/myVideop.mp4": "/static/media/myVideop.b1c1a302378b007922f2.mp4",
+    "static/media/MASQUE.jpg": "/static/media/MASQUE.241306523f91f4ed4bbc.jpg",
+    "static/media/Infographie1.png": "/static/media/Infographie1.8129e67bf7f1a9adcfa7.png",
+    "static/media/IMG_7104.JPG": "/static/media/IMG_7104.8b1723c25143b6e0089e.JPG",
+    "static/media/IMG_7105.JPG": "/static/media/IMG_7105.a72f5eb816c1023d0cc0.JPG",
+    "static/media/IMG_7106.JPG": "/static/media/IMG_7106.7057a2e735d60c1c2178.JPG",
+    "static/media/IMG_9440.JPG": "/static/media/IMG_9440.40b7e5f875f2b6f627cf.JPG",
+    "static/media/IMG_9432.JPG": "/static/media/IMG_9432.e2c605dc804d33e7d0f8.JPG",
+    "static/media/IMG_9425.JPG": "/static/media/IMG_9425.7eabe7df7a85cedea935.JPG",
+    "static/media/GR371_DaCosta_Sergio_TPP_Affiche3.png": "/static/media/GR371_DaCosta_Sergio_TPP_Affiche3.72b9d5d3fae49862c137.png",
+    "static/media/GR371_DaCosta_Sergio_TPP_Affiche.png": "/static/media/GR371_DaCosta_Sergio_TPP_Affiche.0a3b35b4b1fe49bbe5c3.png",
+    "static/media/GR371_DaCosta_Sergio_TPP_Affiche2.png": "/static/media/GR371_DaCosta_Sergio_TPP_Affiche2.ad9b035286370c4eb8ee.png",
+    "static/media/Specimen2.png": "/static/media/Specimen2.bc69d9b999b181b6e506.png",
+    "static/media/N27-Medium.otf": "/static/media/N27-Medium.c6898420b0ec2142f6dc.otf",
+    "static/media/Specimen.png": "/static/media/Specimen.f2782aec7ff430705a03.png",
+    "index.html": "/index.html",
+    "main.e2ae2354.css.map": "/static/css/main.e2ae2354.css.map",
+    "main.93aa6063.js.map": "/static/js/main.93aa6063.js.map",
+    "787.ef0c4325.chunk.js.map": "/static/js/787.ef0c4325.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e2ae2354.css",
+    "static/js/main.93aa6063.js"
+  ]
+}
