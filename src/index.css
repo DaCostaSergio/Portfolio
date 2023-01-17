@@ -1,12 +1,8 @@
 @tailwind base;
 @tailwind components;
-@font-face {
-    font-family: 'Baunk';
-    src:local('Baunk'), url(./fonts/Baunk.ttf)
-}
 @tailwind utilities;
 
 @font-face {
-    font-family: "N27";
-    src: url("../src/fonts/n27-light-webfont.ttf");
+  font-family: "N27";
+  src: url("../src/font/N27-Medium.otf");
 }
